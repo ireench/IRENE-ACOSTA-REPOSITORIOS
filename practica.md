@@ -2,7 +2,7 @@
 # 1.	Comentario
 ## [TRESCA PROYECY: ***Are social media Harmful?***](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/)
 ## Facebook testimony highlighted the mental health dangers, but research suggests it matters plenty how you present scientific data on a contentious issue like this.
-### *By [Sara Degli Esposti, CSIC](http://ipp.csic.es/es/personal/sara.degli-esposti) 
+### [*By Sara Degli Esposti, CSIC*](http://ipp.csic.es/es/personal/sara.degli-esposti) 
 
 Este artículo de PROYECT TESCA hace referencia auna cuestión que, actualmente, ocupa un lugar predominante en las preocupaciones de la sociedad: Redes Sociales y su repercusión en la salud mental. Como exponía [la modelo, Ariish Wol, en su entrevista en el S Moda:«Queremos fingir que llevamos una vida perfecta, y eso daña tanto nuestra salud mental como la de los que nos miran»](https://smoda.elpais.com/moda/ariish-wol-queremos-fingir-que-llevamos-una-vida-perfecta-y-eso-dana-tanto-nuestra-salud-mental-como-la-de-los-que-nos-miran/). 
 
