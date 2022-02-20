@@ -4,7 +4,7 @@
 ## Facebook testimony highlighted the mental health dangers, but research suggests it matters plenty how you present scientific data on a contentious issue like this.
 ### [*By Sara Degli Esposti, CSIC*](http://ipp.csic.es/es/personal/sara.degli-esposti) 
 
-Este artículo de PROYECT TESCA hace referencia auna cuestión que, actualmente, ocupa un lugar predominante en las preocupaciones de la sociedad: Redes Sociales y su repercusión en la salud mental. Como exponía [la modelo, Ariish Wol, en su entrevista en el S Moda:«Queremos fingir que llevamos una vida perfecta, y eso daña tanto nuestra salud mental como la de los que nos miran»](https://smoda.elpais.com/moda/ariish-wol-queremos-fingir-que-llevamos-una-vida-perfecta-y-eso-dana-tanto-nuestra-salud-mental-como-la-de-los-que-nos-miran/). 
+Este artículo de PROYECT TESCA hace referencia auna cuestión que, actualmente, ocupa un lugar predominante en las preocupaciones de la sociedad: Redes Sociales y su repercusión en la salud mental. Como exponía [la modelo, Ariish Wol, en su entrevista en el S Moda: «Queremos fingir que llevamos una vida perfecta, y eso daña tanto nuestra salud mental como la de los que nos miran»](https://smoda.elpais.com/moda/ariish-wol-queremos-fingir-que-llevamos-una-vida-perfecta-y-eso-dana-tanto-nuestra-salud-mental-como-la-de-los-que-nos-miran/). 
 
 El artículo de Sara Delgi para PROYECT TESCA informa sobre los datos y porcentajes de una encuesta ante esta situación, el daño de las redes sociales en la salud mental. Como se expone el mismo artículo, es necesario que haya datos científicos sobre esta cuestión, pero sorprende de la manera que el medio los muestra. **De manera poco metódica ofrece cifras desordenadas**, asuntos conversos y **cuenta con tan solo un gráfico** que no se ve en él cifras exactas, tampoco fecha de las mismas y que, en resumen, es poco innovador. Además, el contenido del gráfico no concuerda con lo que se está explicando en esa parte de la noticia, algo que puede inducir a una mayor confusión.
 
@@ -12,10 +12,7 @@ El artículo debería contar con elementos visuales que ayuden al lector a compr
 
 > [RTVE: Los datos de la salud mental en España, la pandemia detrás de la pandemia](https://www.rtve.es/noticias/20211215/datos-salud-mental-espana/2238590.shtml)
 
-GRÁFICOS RTVE (![gráficos rtve](https://user-images.githubusercontent.com/99193700/154841964-a13d48f4-e5f7-4bf7-8feb-0ef7705744e8.JPG)
+GRÁFICOS RTVE ![gráficos rtve](https://user-images.githubusercontent.com/99193700/154841964-a13d48f4-e5f7-4bf7-8feb-0ef7705744e8.JPG)
 
 # 2.	Comentario
-##
-Se trata de una aplicación móvil, también disponible en navegadores web, que informa sobre los lugares en los que se dan conflictos, terrorismo, despliegue de armas, desastres naturales o cuestiones relacionadas con los derechos humanos. 
 
-A través de un mapa del mundo te permite geolocalizar por países los conflictos que se dan en cada zona, diferenciándolos con colores y diferentes simbologías. Se trata de una aplicación que traduce lo que podría ser una larga lista de problemas mundiales, a un mapa interactivo, un software que permite el filtrado por países o tipología de conflictos, además de información contrastada de los datos e informaciones que les llega. 
