@@ -1,4 +1,4 @@
-# PRÁCTICA 1ª – Periodismo de Datos 
+# PRÁCTICA 1ª – Periodismo de Datos 2022
 # 1.	Comentario
 ## [TRESCA PROYECY: ***Are social media Harmful?***](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/)
 ## Facebook testimony highlighted the mental health dangers, but research suggests it matters plenty how you present scientific data on a contentious issue like this.
